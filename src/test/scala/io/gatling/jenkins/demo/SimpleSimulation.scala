@@ -1,6 +1,6 @@
 package io.gatling.jenkins.demo
 
-import java.util.concurrent.ThreadLocalRandom
+import java.util.concurrent._
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 
